@@ -1,0 +1,1 @@
+# smart-market-gap-analyzer
