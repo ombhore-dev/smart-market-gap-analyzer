@@ -44,7 +44,7 @@ Smart Market Gap Analyzer is a GenAI business intelligence tool. Enter an indust
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-market-gap-analyzer.git
+git clone https://github.com/ombhore-dev/smart-market-gap-analyzer.git
 cd smart-market-gap-analyzer
 ```
 
